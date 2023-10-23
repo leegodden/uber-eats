@@ -1,9 +1,9 @@
 {
-  "name": "@tkssharma/dashboard",
+  "name": "@leegodden/dashboard",
   "version": "0.0.0",
   "description": "> TODO: description",
-  "author": "tkssharma <tarun.softengg@gmail.com>",
-  "homepage": "https://github.com/tkssharma/uber-eats-clone-app#readme",
+  "author": "leegodden <tarun.softengg@gmail.com>",
+  "homepage": "https://github.com/leegodden/uber-eats#readme",
   "license": "ISC",
   "main": "lib/restaurant-dashboard.js",
   "directories": {
@@ -15,12 +15,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tkssharma/uber-eats-clone-app.git"
+    "url": "git+https://github.com/leegodden/uber-eats"
   },
   "scripts": {
     "test": "echo 'hello'"
   },
   "bugs": {
-    "url": "https://github.com/tkssharma/uber-eats-clone-app/issues"
+    "url": "https://github.com/leegodden/uber-eats/issues"
   }
 }

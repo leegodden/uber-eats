@@ -1,8 +1,8 @@
 {
-  "name": "@tkssharma/drivers",
+  "name": "@leegodden/drivers",
   "version": "1.0.0",
   "description": "> TODO: description",
-  "author": "tkssharma <tarun.softengg@gmail.com>",
+  "author": "leegodden <tarun.softengg@gmail.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/drivers.js",
