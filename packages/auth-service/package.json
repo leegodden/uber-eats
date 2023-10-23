@@ -18,7 +18,8 @@
     "url": "git+https://github.com/tkssharma/uber-eats-clone-app.git"
   },
   "scripts": {
-    "build": "echo 'hello'"
+    "build": "echo 'hello'",
+    "test": "lerna run test"
   },
   "bugs": {
     "url": "https://github.com/tkssharma/uber-eats-clone-app/issues"
