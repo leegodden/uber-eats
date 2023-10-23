@@ -12,17 +12,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 'Checkout'
+      - name: "Checkout"
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
 
-      - name: 'Use NodeJS 18'
+      - name: "Use NodeJS 18"
         uses: actions/setup-node@v2
         with:
-          node-version: '18'
+          node-version: "18"
 
-      - name: 'Version and publish' # Interesting step
+      - name: "Version and publish" # Interesting step
         env:
           GH_TOKEN: ${{ secrets.UBER_LG62 }}
         run: |

@@ -18,7 +18,8 @@
     "url": "git+https://github.com/leegodden/uber-eats"
   },
   "scripts": {
-    "build": "echo 'hello'"
+    "build": "echo 'hello'",
+    "test": "echo \"Error: run tests from root\""
   },
   "bugs": {
     "url": "https://github.com/leegodden/uber-eats/issues"

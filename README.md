@@ -76,12 +76,10 @@ We will be using all different latest tech stack and all this will also add lear
 
 ![](./arch//core.png)
 
-
 ### Local Setup
-
-
 
 ### Deployment
 
-
 ### Trouble shooting and Notes
+
+Github actions are the best
