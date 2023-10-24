@@ -84,7 +84,9 @@ We will be using all different latest tech stack and all this will also add lear
 
 # Process for building, adn pushing to github with github actions and lerna
 
-1. add and commit changes
+1. Stage all changes
+2. run prettier: `npm run prettier:write`
+3. commit all changes and add descritions at prompt
 
 UPTO: Baseline Next JS and Sveltekit Dashboard Apps #13
 `https://youtu.be/XGK_fk5ZlGc?list=PLIGDNOJWiL1-Smf4ABmuvcOrV7E4mCqN3&t=641`
