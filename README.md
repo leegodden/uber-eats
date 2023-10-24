@@ -82,4 +82,9 @@ We will be using all different latest tech stack and all this will also add lear
 
 ### Trouble shooting and Notes
 
-Github actions are the best
+# Process for building, adn pushing to github with github actions and lerna
+
+1. add and commit changes
+
+UPTO: Baseline Next JS and Sveltekit Dashboard Apps #13
+`https://youtu.be/XGK_fk5ZlGc?list=PLIGDNOJWiL1-Smf4ABmuvcOrV7E4mCqN3&t=641`

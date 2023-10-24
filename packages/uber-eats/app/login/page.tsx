@@ -1,9 +1,6 @@
-import React, { FC } from 'react';
-import LoginForm from './LoginForm';
+import LoginForm from "./LoginForm";
 
-interface pageProps {}
-
-const Login: React.FC<pageProps> = ({}) => {
+const Login = () => {
   return <LoginForm />;
 };
 
