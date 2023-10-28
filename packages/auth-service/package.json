@@ -15,6 +15,7 @@
     "clean": "rimraf dist/src/",
     "test": "npm run test:migration && npm run test:ci && npm run test:e2e",
     "test:unit": "jest",
+    "test:migration": "typeorm migration:run -t each",
     "test:ci": "NODE_ENV=CI jest --ci none --testPathPattern='src' --forceExit true --collectCoverage --maxWorkers 2 --detectOpenHandles",
     "test:watch": "jest --watch",
     "test:cov": "jest --coverage",
